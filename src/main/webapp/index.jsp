@@ -20,5 +20,7 @@
 </head>
 <body>
 1. 실습1번 wow
+2. test
+3. 수정하고 업데이트
 </body>
 </html>
