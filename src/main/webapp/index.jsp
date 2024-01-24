@@ -19,6 +19,6 @@
 <title></title>
 </head>
 <body>
-1. 실습1번
+1. 실습1번 wow
 </body>
 </html>
